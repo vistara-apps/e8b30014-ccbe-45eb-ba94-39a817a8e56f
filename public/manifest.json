@@ -1,0 +1,14 @@
+{
+  "name": "LighterBot Hub",
+  "description": "LighterBot Hub is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://e8b30014-ccbe-45eb-ba94-39a817a8e56f.vercel.app",
+  "properties": {
+    "app": {
+      "name": "LighterBot Hub",
+      "description": "LighterBot Hub is a Base Mini App built with Zara.",
+      "url": "https://e8b30014-ccbe-45eb-ba94-39a817a8e56f.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

@@ -10,7 +10,7 @@
     "iconUrl": "https://lighterbot.hub.com/icon.png",
     "splashImageUrl": "https://lighterbot.hub.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://lighterbot.hub.com",
-    "webhookUrl": "https://api.lighterbot.hub.com/farcaster-webhook"
+    "homeUrl": "https://app-17a8e56f-7dt9.vercel.app",
+    "webhookUrl": "https://app-17a8e56f-7dt9.vercel.app/api/webhook"
   }
 }
